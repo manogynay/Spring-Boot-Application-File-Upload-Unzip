@@ -5,6 +5,8 @@ Takes a zip file as input
 Stores in local directory
 Extracts the zip and stores in specified directory
 
+Note: This application unzips only .zip files.It throws exception for tar files
+
 # Softwares needed
 Java - jdk 1.8 or more
 Maven - 3.3.3 or more
