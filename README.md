@@ -8,16 +8,16 @@ This application contains Restful API which does below functionality.
 Note: This application unzips only .zip files.It throws exception for tar files
 
 # Softwares needed
-Java - jdk 1.8 or more
-Maven - 3.3.3 or more
+>* Java - jdk 1.8 or more
+>* Maven - 3.3.3 or more
 
 # How to run?
-Download the project and unzip it to some folder
-Open project root folder which contains pom.xml using command prompt
-Run the command : mvn clean install
-Once the build is successful, run below command
-java -jar target\File_Upload_Unzip-0.0.1-SNAPSHOT.jar
-Spring boot application starts successfully.
+  Download the project and unzip it to some folder.
+  Open project root folder which contains pom.xml using command prompt.
+  Run the command : mvn clean install.
+  Once the build is successful, run below command.
+  java -jar target\File_Upload_Unzip-0.0.1-SNAPSHOT.jar
+  Spring boot application starts successfully.
 
 # How to test?
 
